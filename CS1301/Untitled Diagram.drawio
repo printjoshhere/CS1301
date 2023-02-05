@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T21:16:05.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yWf4TF2otbtNDjCMDsHm" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T21:16:29.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="efF3aclZl2_Lo5DZ1Xn1" version="20.8.16" type="github">
   <diagram name="Page-1" id="2SwK_Ge8CA8nD8OYH0nJ">
     <mxGraphModel dx="836" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="7Dd9MZx4GV7fzuQqrnYb-6" value="&lt;font face=&quot;consolas&quot;&gt;go&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="465" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Dd9MZx4GV7fzuQqrnYb-7" value="&lt;font face=&quot;consolas&quot;&gt;&lt;br&gt;&lt;br&gt;entry /&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="7Dd9MZx4GV7fzuQqrnYb-7" value="&lt;font face=&quot;consolas&quot;&gt;&lt;b&gt;green(01)&lt;/b&gt;&lt;br&gt;&lt;br&gt;entry /&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="200" y="440" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7Dd9MZx4GV7fzuQqrnYb-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="7Dd9MZx4GV7fzuQqrnYb-7" edge="1">
@@ -66,7 +66,7 @@
             <mxPoint x="250" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Dd9MZx4GV7fzuQqrnYb-22" value="&lt;font face=&quot;consolas&quot;&gt;&lt;br&gt;&lt;br&gt;entry /&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="7Dd9MZx4GV7fzuQqrnYb-22" value="&lt;font face=&quot;consolas&quot;&gt;&lt;b&gt;red(10)&lt;/b&gt;&lt;br&gt;&lt;br&gt;entry /&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="480" y="440" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7Dd9MZx4GV7fzuQqrnYb-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="7Dd9MZx4GV7fzuQqrnYb-22" edge="1">
