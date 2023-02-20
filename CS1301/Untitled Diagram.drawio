@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T02:41:57.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="21hH4zsS2whMHkP3MP93" version="20.8.20" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-20T16:43:06.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="W8I17Ssvp2zGjF7MeUyG" version="20.8.20" type="github" pages="4">
   <diagram name="Page-1" id="2SwK_Ge8CA8nD8OYH0nJ">
     <mxGraphModel dx="794" dy="438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -555,11 +555,8 @@
             <mxPoint x="280" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MdeVoOFhUxqDblVcshw-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="_MdeVoOFhUxqDblVcshw-15" value="&lt;font face=&quot;consolas&quot;&gt;10 = clockwise (reverse)&lt;br&gt;01 = counter-clockwise&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="600" y="120" width="200" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OqO_WVdZs6ppM9t27wjT-1" value="10 = clockwise (reverse)&lt;br&gt;01 = counter-clockwise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="90" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
