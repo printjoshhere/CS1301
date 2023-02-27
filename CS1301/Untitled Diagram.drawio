@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T23:07:08.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gSOEtH3FCZgBZtqqPc7k" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-27T00:07:07.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YmaYc0s_MIPHJBCg2PSJ" version="20.8.23" type="github" pages="4">
   <diagram name="Page-1" id="2SwK_Ge8CA8nD8OYH0nJ">
-    <mxGraphModel dx="794" dy="438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -494,7 +494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8zG6Q_xp-654_9KaUf8X" name="Lab6PreLab">
-    <mxGraphModel dx="2785" dy="1095" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,8 +519,8 @@
             <mxPoint x="35" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MdeVoOFhUxqDblVcshw-15" value="&lt;font face=&quot;consolas&quot;&gt;10 = clockwise (reverse)&lt;br&gt;01 = counter-clockwise&lt;br&gt;&lt;br&gt;Outputs are assumed to be 0 if not shown otherwise.&lt;br&gt;&lt;br&gt;Inputs not included on transition arcs are 0.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="155" y="40" width="200" height="120" as="geometry" />
+        <mxCell id="_MdeVoOFhUxqDblVcshw-15" value="&lt;font face=&quot;consolas&quot;&gt;10 = clockwise (reverse)&lt;br&gt;01 = counter-clockwise&lt;br&gt;&lt;br&gt;Outputs are assumed to be 0 if not shown otherwise.&lt;br&gt;&lt;br&gt;Inputs not included on transition arcs are 0.&lt;br&gt;&lt;br&gt;Sw3 and Sw4 are held 1&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="121" y="10" width="303" height="166" as="geometry" />
         </mxCell>
         <mxCell id="LPEIr9Qp9NnGLLoboWuJ-20" value="&lt;font size=&quot;1&quot; face=&quot;consolas&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;START&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-95" y="210" width="60" height="30" as="geometry" />
@@ -881,7 +881,7 @@
         <mxCell id="V6sCla3lWqVF1AmjfVVD-14" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;consolas&quot;&gt;&lt;b&gt;S4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jUbXdToiJDeq584asNrV-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=15;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V6sCla3lWqVF1AmjfVVD-14" target="3l3dV5rT5gys-1rPFAFH-67">
+        <mxCell id="jUbXdToiJDeq584asNrV-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=15;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="V6sCla3lWqVF1AmjfVVD-14" target="3l3dV5rT5gys-1rPFAFH-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="35" y="267" as="sourcePoint" />
             <mxPoint x="160" y="183" as="targetPoint" />
