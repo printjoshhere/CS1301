@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T03:22:09.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BGaPs6M9dLRyZlCf2PfI" version="20.8.23" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:22:14.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7_6s9LA3Mxm5TKvYJr8f" version="20.8.23" type="github" pages="5">
   <diagram name="Page-1" id="2SwK_Ge8CA8nD8OYH0nJ">
     <mxGraphModel dx="794" dy="470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -899,7 +899,7 @@
           <mxGeometry x="135" y="50" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-2" value="&lt;font face=&quot;consolas&quot;&gt;Starting from 0, display counting numbers on the LEDs (0, 1, 2, 3, etc), incrementing at 1.5 Hz&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="210" width="180" height="30" as="geometry" />
+          <mxGeometry x="130" y="210" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-4" value="&lt;font face=&quot;consolas&quot;&gt;When the player raises any switch, count the number of lit LEDs. If the number of lit LEDs matches the round number, the player wins that round and the score should increase by the round number. If the values don&#39;t match, the player loses that round and gets no points.&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="110" width="360" height="30" as="geometry" />
