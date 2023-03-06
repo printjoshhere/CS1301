@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T02:26:20.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9bjtL-K6o-WRq2sx-vNe" version="20.8.23" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:22:09.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BGaPs6M9dLRyZlCf2PfI" version="20.8.23" type="github" pages="5">
   <diagram name="Page-1" id="2SwK_Ge8CA8nD8OYH0nJ">
     <mxGraphModel dx="794" dy="470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -891,15 +891,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RGNBY_e95HZF4D5Fm-X_" name="Lab8">
-    <mxGraphModel dx="934" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-1" value="&lt;font face=&quot;consolas&quot;&gt;At rest, display a score of 0, reset the LED sequence, and wait for all switches to be down.&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="100" width="170" height="30" as="geometry" />
+          <mxGeometry x="135" y="50" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-2" value="&lt;font face=&quot;consolas&quot;&gt;Starting from 0, display counting numbers on the LEDs (0, 1, 2, 3, etc), incrementing at 1.5 Hz&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="260" width="180" height="30" as="geometry" />
+          <mxGeometry x="125" y="210" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-4" value="&lt;font face=&quot;consolas&quot;&gt;When the player raises any switch, count the number of lit LEDs. If the number of lit LEDs matches the round number, the player wins that round and the score should increase by the round number. If the values don&#39;t match, the player loses that round and gets no points.&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="110" width="360" height="30" as="geometry" />
@@ -908,10 +908,10 @@
           <mxGeometry x="320" y="180" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-6" value="&lt;font face=&quot;consolas&quot;&gt;Display the round number on &lt;br&gt;the left 7-segment display&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="125" y="150" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-7" value="&lt;font face=&quot;consolas&quot;&gt;Once all switches are &lt;br&gt;down, round 1 begins.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="150" width="160" height="40" as="geometry" />
+          <mxGeometry x="135" y="100" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sjcy2PJ9WKZexxhKkeKN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CCCC;strokeWidth=2;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="sjcy2PJ9WKZexxhKkeKN-8" target="sjcy2PJ9WKZexxhKkeKN-15">
           <mxGeometry relative="1" as="geometry" />
